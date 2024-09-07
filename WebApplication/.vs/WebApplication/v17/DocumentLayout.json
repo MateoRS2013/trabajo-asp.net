@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|c:\\users\\pc\\desktop\\trabajo\\trabajo\\webapplication\\webapplication\\dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|c:\\users\\pc\\desktop\\trabajo\\trabajo\\webapplication\\webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|c:\\users\\pc\\desktop\\trabajo\\trabajo\\webapplication\\webapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7E8BAD4-7E37-4688-9C65-9611B78207AE}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\DataAccess\\DataAccess.cs",
+              "RelativeDocumentMoniker": "WebApplication\\DataAccess\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\DataAccess\\DataAccess.cs",
+              "RelativeToolTip": "WebApplication\\DataAccess\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:58:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\web.config",
+              "RelativeDocumentMoniker": "WebApplication\\web.config",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\web.config",
+              "RelativeToolTip": "WebApplication\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-07T03:53:00.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TRABAJO\\trabajo\\WebApplication\\WebApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T03:49:01.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
